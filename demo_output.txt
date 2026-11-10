@@ -1,0 +1,51 @@
+﻿=== Symmetric encryption (Fernet) ===
+Secret key: 6xTDspuqc4nePuQ_WwDGapGAc1mdANb-ZtvMZPUn6Zw=
+Input: Hello, Ivy Tech!
+Encrypted output: gAAAAABq8nthFBu49kr5RsYzrSqL5qLjYvET-zfBl10zSBFzA1BZFog740Z8QBZrmMwth91lYkbkWPirL17tbMAb5rSPSLuc-hmmf0ld46lTqw5oEzVWZWo=
+Decrypted output: Hello, Ivy Tech!
+Matches original: True
+
+=== Asymmetric encryption (RSA-OAEP with SHA-256) ===
+Public key used to encrypt:
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2DLUn6Ed7JFwtJhMaEGO
+2KcbA1n+xA2IuR1j6twb9xbI3hYV6/7QfuI4wBo3rx1zpdbJxUjXkW0i3nFByTZO
+KJUwefOylNsEZo0VVcAbRoqFd2N2uMoaM4Jb1+YgpBZBgZxRNVqZfNNlkOXaTf9k
+fEQuBfThBcpGDVZmuO1qKZ0la5uk7k/4EnnXJWTLa7PHuY6nvyy1BKj4oic0cnQg
+9VG+TwxpTgjuLxKjMWLr76VFzuP8I5zastCQKvbJPgmZawtTeB8bcdNSa7bv0uHI
+opzFOCGqW3ZsDRYNDnc8bcKm3OMLJQ7aWm1mP2YB9zhux9nLy7u2iNcF+IqNRYbw
+kwIDAQAB
+-----END PUBLIC KEY-----
+Private key used to decrypt (demo only):
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYMtSfoR3skXC0
+mExoQY7YpxsDWf7EDYi5HWPq3Bv3FsjeFhXr/tB+4jjAGjevHXOl1snFSNeRbSLe
+cUHJNk4olTB587KU2wRmjRVVwBtGioV3Y3a4yhozglvX5iCkFkGBnFE1Wpl802WQ
+5dpN/2R8RC4F9OEFykYNVma47WopnSVrm6TuT/gSedclZMtrs8e5jqe/LLUEqPii
+JzRydCD1Ub5PDGlOCO4vEqMxYuvvpUXO4/wjnNqy0JAq9sk+CZlrC1N4Hxtx01Jr
+tu/S4ciinMU4IapbdmwNFg0Odzxtwqbc4wslDtpabWY/ZgH3OG7H2cvLu7aI1wX4
+io1FhvCTAgMBAAECggEACue0qhQ2TktfXBSkiGVQjCTdq9noJY52aFP1r5AiFWDZ
+iYfWqKLS2tuUhKGt6ZAHcdGEN7nLxpxl8/XSUJDQxdZEoQCF8C4EXYHdr7rmOIHE
+zd4lmMuRuvbNccK8Jo3i1WO20VI8R+7haO4j7udxDTcvlRuIsCiUR2VYy0vA0Gly
+wwawKeiWRHT0H7mzHwKONZCuB5gQ2q4u7x9xSWySZzvXTf6s5howEw0sRNpZIi9T
+DKa/HkXbXE7MPn4oYOE70JG+fiSQ0o60JAt26M7au8j7TjSjfVrl8Y4gCZPnFG+i
+KcpmFcF4F7SW4p6SHtOSExfDp40Rip7Cc3+uj7aK+QKBgQDvvTn6fthH4pdPBaif
+RXbBWlIMc19C4uLnIYX+IcVMbY+HtofBBtHnVWiHz60wFKNzp7webrSPZuvHrrSn
+Vb3RdXH43Rf01EjZeln/dLQESX6ETJufdP2OQHZo5Njk/qTzyoduUu0xYqC/w7OB
+zWJF0jJZzctPQBqNY/tmXeSDeQKBgQDm3Nm/g/B0AOQ2tfh/BPCsYAUO0X+swnp5
+4tP3hxzDxXv2cKcQt9r5J8y+xEzLEAL81UbQcHlNOj15M3R400zxcd+WyWlBzbE7
+dzKovnElYzsd8MFZGA0q/UZrwOvtHGYxaKGVU/Vz0FIlQ0bEm1wGsb/7pNccibm3
+X54GH7+lawKBgD4C/FRHKzqs6eaO2CcamLU6365IyYNLnNWcXkR2B8rVLCM2m7ba
+RMFJ3lgC6BFfxUfNQ2O7zwio3qQwFJqUGx1q+6gbyG6T2qQmedESJt5VBFzEVBzS
+7iM1mWtYhqH1HEXTRWTMHn5/vITd4jjZH2pgDJYeHVDKjBO2oPjBoLJBAoGAXnWY
+xqq2dNB0kAourdIYo376MtD3W3mLYVm0/v+SfmvMR85aHRYNC4sEVD2/agqYHlkp
+i1mp2DZvNqseCd3zCotcP7cTUTBXRwyDdtXNN839P0fl5I1ZvfA5oxchsTfAfJDi
+JFZhBM0E/2giiYlDwx1xfwY4Wd3kVipSXxEYehcCgYEAoABCINJqVl8qtyFAog2O
+ZTgiD5Zf+K8s8F9T5hq4xeYBRUlOzX+jiiQYBGotzuljrZ3enR4+Y+wcQnMVdM0Y
+aSK1+yGwM7jqZSFBrRKdKzvtr4bS+ROR6wTb33PMyQcEzhlO8JfnICWfPGvihcON
+se1ZxHpbZTTmn3jNUpZBqHo=
+-----END PRIVATE KEY-----
+Input: Hello, Ivy Tech!
+Encrypted output (Base64): zJaKUpVyQYLsy3jIztFPQeOkwclt9fAZ3uaWob1WjYTWek4U5hE5GOUwCTfvKuu0QSJzYkAtk0XrIOq8YSxLUsVLHCdNPH/g/WvhiW7yMlcCfz2TdhxlBa+iGE+6kC1THc9dsx5kgA8uOHrnY1p6FgaBCzkX03imBy0ioY9ldCmN7H+cvLcFjk9eZSYtZKLAtqQi4dckI2ijZjxw9xWE2fHM/SvPhMp8bjw1iWjquozc71tLnvBUcKv13xSBXvhhpqETYxFlqPvdCLH/vtaE9e4vsEYfCiuc+ucwicdOcYm1dkATbObq9ymRtT91folgwf3DQ+LDTcBdcPR/PfcWdw==
+Decrypted output: Hello, Ivy Tech!
+Matches original: True
